@@ -1,0 +1,27 @@
+<?xml version="1.0"?>
+<ArrayOfRecipe xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Recipe>
+    <Name>Новый</Name>
+    <Instruction>Инструкция</Instruction>
+    <Ingredients>Компоненты</Ingredients>
+    <Photo>http://img1.russianfood.com/dycontent/images_upl/29/big_28762.jpg</Photo>
+    <Kitchen>Украинская</Kitchen>
+    <Type>FirstCource</Type>
+  </Recipe>
+  <Recipe>
+    <Name>Еще один</Name>
+    <Instruction>Инструкцион</Instruction>
+    <Ingredients>Компоненты супа</Ingredients>
+    <Photo>https://pw.artfile.me/wallpaper/31-07-2017/650x434/eda-pervye-blyuda-moreprodukty-sup-pervo-1202336.jpg</Photo>
+    <Kitchen>Грузинская</Kitchen>
+    <Type>SecondCource</Type>
+  </Recipe>
+  <Recipe>
+    <Name>фуапафка</Name>
+    <Instruction>фываыва</Instruction>
+    <Ingredients>ывфафыва</Ingredients>
+    <Photo>выфа</Photo>
+    <Kitchen>фывафыва</Kitchen>
+    <Type>Salads</Type>
+  </Recipe>
+</ArrayOfRecipe>
